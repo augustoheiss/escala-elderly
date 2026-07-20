@@ -1,0 +1,6 @@
+[
+  { "id": 1, "nome": "Ana Souza", "status": "Presente" },
+  { "id": 2, "nome": "Lucas Lima", "status": "Presente" },
+  { "id": 3, "nome": "Carlos Rocha", "status": "Presente" },
+  { "id": 4, "nome": "Mariana Costa", "status": "Presente" }
+]
