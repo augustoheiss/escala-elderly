@@ -1,4 +1,13 @@
-# React + TypeScript + Vite
+# 🏥 Escala Elderly — Frontend (`Painel do Gerente`)
+
+> **Links Rápidos de Governança & Gestão da Equipe:**
+> - 📊 **[Quadro Kanban Interativo (GitHub Projects — Front + Back)](https://github.com/users/augustoheiss/projects/1)**
+> - 🏛️ **[Catálogo de ADRs do Frontend (Decisões Tomadas & Governança)](./docs/adr/README.md)**
+> - 🗺️ **[Divisão das Issues por Sprints e Colunas](./docs/adr/QUADRO-KANBAN-SPRINTS.md)**
+
+---
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
